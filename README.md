@@ -45,8 +45,8 @@ StudyCircle lets students share notes and past papers, ask and answer questions,
  
 | Member | GitHub username |
 |---|---|
-| Member 1 | TODO |
-| Member 2 | TODO |
+| Member 1 | muthumal2022-debug |
+| Member 2 | disul-git |
 | Member 3 | TODO |
 | Member 4 | TODO |
 | Member 5 | TODO |
