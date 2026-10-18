@@ -9,6 +9,7 @@ Final group project for **Web and Mobile Application Development** (Group 47).
 | **Live site** | hosted link |
 | **Demo video** | unlisted video link |
 
+
 ---
 ## 1. About the project
  
@@ -32,6 +33,7 @@ StudyCircle lets students share notes and past papers, ask and answer questions,
 - Moderate forum questions, answers and comments
 - View reports
 ---
+
  
 ## 2. Tech stack
  
