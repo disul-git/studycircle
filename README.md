@@ -40,3 +40,15 @@ StudyCircle lets students share notes and past papers, ask and answer questions,
 - **Database:** MySQL
 - **Hosting:** name the host
 ---
+
+## 3. Team
+ 
+| Member | GitHub username |
+|---|---|
+| Member 1 | TODO |
+| Member 2 | TODO |
+| Member 3 | TODO |
+| Member 4 | TODO |
+| Member 5 | TODO |
+| Member 6 | TODO |
+| Member 7 | TODO |
