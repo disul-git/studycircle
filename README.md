@@ -6,8 +6,7 @@ Final group project for **Web and Mobile Application Development** (group of 7).
  
 | | |
 |---|---|
-| **Live site** | TODO: add the hosted link |
-| **Demo video** | TODO: add the unlisted video link |
-| **Repository** | TODO: add this repo's link |
- 
+| **Live site** | hosted link |
+| **Demo video** | unlisted video link |
+
 ---
