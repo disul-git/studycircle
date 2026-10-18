@@ -1,4 +1,4 @@
-StudyCircle
+# StudyCircle
 
 A student community web app for sharing study notes, asking academic questions, and organising study groups. Built with HTML, CSS, JavaScript, PHP and MySQL.
 
