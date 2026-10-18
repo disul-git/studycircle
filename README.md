@@ -3,12 +3,11 @@
 A student community web app for sharing study notes, asking academic questions, and organising study groups. Built with HTML, CSS, JavaScript, PHP and MySQL.
  
 Final group project for **Web and Mobile Application Development** (Group 47).
- 
-| | |
-|---|---|
-| **Live site** | hosted link |
-| **Demo video** | unlisted video link |
 
+**Live Site**
+```hosted link```
+**Demo Video**
+```video link```
 ---
 ## 1. About the project
  
