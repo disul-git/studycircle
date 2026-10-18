@@ -35,8 +35,8 @@ StudyCircle lets students share notes and past papers, ask and answer questions,
  
 ## 2. Tech stack
  
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap 5
+- **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
-- **Database:** MySQL (InnoDB, utf8mb4)
+- **Database:** MySQL
 - **Hosting:** name the host
 ---
