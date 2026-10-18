@@ -5,11 +5,9 @@ A student community web app for sharing study notes, asking academic questions, 
 Final group project for **Web and Mobile Application Development** (Group 47).
 
 **Live Site**
-
 ```hosted link```
 
 **Demo Video**
-
 ```video link```
 
 ---
