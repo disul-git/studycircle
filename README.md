@@ -46,8 +46,8 @@ StudyCircle lets students share notes and past papers, ask and answer questions,
 |---|---|
 | Member 1 | muthumal2022-debug |
 | Member 2 | disul-git |
-| Member 3 | TODO |
-| Member 4 | TODO |
-| Member 5 | TODO |
-| Member 6 | TODO |
-| Member 7 | TODO |
+| Member 3 | Madusha2004d |
+| Member 4 | hasitha-x |
+| Member 5 | Sasmitha669 |
+| Member 6 | lakdiyaisara622-a11y |
+| Member 7 | ssk2003dev |
