@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/StudyCircle_Logo.png" alt="StudyCircle Logo" width="400">
+</p>
+
 # StudyCircle – Student Community for Notes and Study Sharing
  
 A student community web app for sharing study notes, asking academic questions, and organising study groups. Built with HTML, CSS, JavaScript, PHP and MySQL.
