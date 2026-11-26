@@ -46,10 +46,10 @@ StudyCircle lets students share notes and past papers, ask and answer questions,
  
 | Member | GitHub username |
 |---|---|
-| Member 1 | muthumal2022-debug |
-| Member 2 | disul-git |
-| Member 3 | Madusha2004d |
-| Member 4 | hasitha-x |
-| Member 5 | Sasmitha669 |
-| Member 6 | lakdiyaisara622-a11y |
-| Member 7 | ssk2003dev |
+| Member 1 | disul-git |
+| Member 2 | hasitha-x  |
+| Member 3 | lakdiyaisara622-a11y |
+| Member 4 | ssk2003dev |
+| Member 5 | Madusha2004d |
+| Member 6 | Sasmitha669 |
+| Member 7 | muthumal2022-debug |
