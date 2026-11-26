@@ -1,0 +1,15 @@
+# Local database configuration
+config.php
+
+# Uploaded user files
+/uploads/resources/*
+/uploads/avatars/*
+
+# Keep upload directories
+!/uploads/resources/.gitkeep
+!/uploads/avatars/.gitkeep
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db
