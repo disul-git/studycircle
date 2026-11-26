@@ -1,5 +1,5 @@
 <p align="center">
-  [<img src="assets/studycircle-logo.png" alt="StudyCircle Logo" width="400">](https://studycircle.free.nf)
+  <img src="assets/studycircle-logo.png" alt="StudyCircle Logo" width="400">
 </p>
 
 # StudyCircle – Student Community for Notes and Study Sharing
