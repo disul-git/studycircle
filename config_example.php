@@ -2,7 +2,7 @@
 /**
  * StudyCircle Configuration Example
  *
- * Copy this file to config.php and update the database
+ * Copy this file to config.php(or rename this file name to config.php) and update the database
  * credentials for your local development environment.
  */
 
