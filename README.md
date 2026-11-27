@@ -39,7 +39,6 @@ StudyCircle lets students share notes and past papers, ask and answer questions,
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP
 - **Database:** MySQL
-- **Hosting:** Infinity Free
 ---
 
 ## 3. Team
