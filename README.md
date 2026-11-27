@@ -23,7 +23,7 @@ StudyCircle lets students share notes and past papers, ask and answer questions,
 - Upload notes (they stay pending until an admin approves them) and view "My uploads"
 - Ask questions and post answers in the forum
 - Create and join study groups
-- Schedule study sessions for a group
+- Schedule study sessions for a study group
 ### Admin features
  
 - Admin login and dashboard
